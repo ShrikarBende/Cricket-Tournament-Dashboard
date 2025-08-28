@@ -4,16 +4,25 @@ Cricket Dashboard is a web-based tournament management system built with PHP and
 
 ## 📸 Screenshots
 
-Here are a few screenshots of the dashboard in action.
+Here are screenshots of the dashboard in action:
 
-**Admin Dashboard**
-![Admin Dashboard](./ScreenShots/screenshot1.jpg)
+**Main Login Page**
+![Login Page](./ScreenShots/screenshot1.jpg)
 
-**User Login Page**
-![User Login Page](./ScreenShots/screenshot3.jpg)
+**Admin Match Management**
+![Edit Match Details](./ScreenShots/screenshot2.jpg)
 
-**Match Results**
-![Match Results](./ScreenShots/screenshot2.jpg)
+**Match Scheduling Interface**
+![Schedule Match](./ScreenShots/screenshot3.jpg)
+
+**Tournament Standings**
+![Tournament Standings](./ScreenShots/screenshot4.jpg)
+
+**Match Results Dashboard**
+![Match Results](./ScreenShots/screenshot5.jpg)
+
+**Upcoming Matches View**
+![Upcoming Matches](./ScreenShots/screenshot6.jpg)
 
 ## 🚀 Features
 
@@ -89,12 +98,7 @@ $conn = mysqli_connect("localhost", "root", "", "cricket_db");
 - Club-level competitions
 - Sports event management
 
-## 📌 Future Enhancements
 
-- [ ] Player statistics tracking
-- [ ] Live score updates
-- [ ] Role-based user permissions
-- [ ] Responsive UI with Bootstrap
 
 ## 🤝 Contributing
 
