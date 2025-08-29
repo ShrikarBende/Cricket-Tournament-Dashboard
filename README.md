@@ -65,10 +65,6 @@ cricket_dashboard/
 
 ## ⚡ Installation & Setup
 
-# Cricket Tournament Dashboard
-
-## Prerequisites
-
 Ensure you have a local server environment like **XAMPP**, **WAMP**, or **MAMP** installed, which includes Apache, MySQL, and PHP.
 
 ## Installation
