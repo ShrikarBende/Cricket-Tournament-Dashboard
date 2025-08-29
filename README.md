@@ -68,14 +68,15 @@ cricket_dashboard/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ShrikarBende/cricket_dashboard.git
-cd cricket_dashboard
+git clone https://github.com/ShrikarBende/Cricket-Tournament-Dashboard.git
+cd Cricket-Tournament-Dashboard
 ```
 
 ### 2. Setup Database
 
 1. Create a MySQL database (e.g., `cricket_db`).
 2. Import the SQL file (if available) or create tables manually.
+
 
 ### 3. Configure Database
 
